@@ -1,0 +1,16 @@
+package stepDefinition;
+
+import cucumber.api.PendingException;
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.When;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.And;
+import cucumber.api.junit.Cucumber;
+public class stepDefinition {
+	
+	@Given("^user is on NetBanking landing page$")
+    public void user_is_on_netbanking_landing_page() throws Throwable {
+        throw new PendingException();
+    }
+
+}

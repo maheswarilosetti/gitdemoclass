@@ -1,0 +1,17 @@
+package cucumberOptions;
+
+import org.junit.runner.RunWith;
+
+import cucumber.api.CucumberOptions;
+
+public class TestRunner {
+	
+	
+	/*
+	@RunWith(Cucumber.class)
+	@cucumberOptions(features="src/test/java/feature",glue="stepDefnitions")*/
+	@RumWith(Cucumber.class)
+	@CucumberOptions(feature="src/test/java/feature")
+	public void 
+
+}

@@ -1,0 +1,4 @@
+#Wed Feb 26 14:17:20 GMT 2020
+stepDefinition\:cucumber\:jar\:tests\:1.0-SNAPSHOT=C\:\\maven\\cucumber\\target\\test-classes
+stepDefinition\:cucumber\:pom\:\:1.0-SNAPSHOT=C\:\\maven\\cucumber\\pom.xml
+stepDefinition\:cucumber\:jar\:\:1.0-SNAPSHOT=C\:\\maven\\cucumber\\target\\classes

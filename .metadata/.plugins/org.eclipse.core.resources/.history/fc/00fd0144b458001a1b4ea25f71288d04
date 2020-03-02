@@ -1,0 +1,7 @@
+package cucumberOptions;
+
+public class TestRunner {
+	@RunWith(Cucumber.class)
+	@cucumberOptions(features="src/test/java/feature",glue="")
+
+}
